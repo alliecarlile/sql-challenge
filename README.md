@@ -1,5 +1,5 @@
 
-This research project concerns creating a database of people whom Pewlett Hackard employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+This research project involves creating a database of people whom Pewlett Hackard employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 For this project, I designed the tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answered questions about the data.
 
