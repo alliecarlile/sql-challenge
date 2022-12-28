@@ -7,9 +7,11 @@ For this project, I designed the tables to hold the data from the CSV files, imp
 This project was completed according to the following workflow: 
 
 Data Modeling
+
 Inspect the CSV files, and then sketch an ERD of the tables. 
 
 Data Engineering
+
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
 Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -38,6 +40,7 @@ List each employee in the Sales and Development departments, including their emp
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
+use the following code to begin: 
 
 from sqlalchemy import create_engine
 engine = create_engine('postgresql://localhost:5432/<your_db_name>')
